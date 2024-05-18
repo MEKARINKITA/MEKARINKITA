@@ -1,11 +1,29 @@
-### Hey I'm Kamil 👋
+# Hey I'm Kamil 👋
 
-<br>## Connect with me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohammad-faisal-2665b5134)
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://56faisal.medium.com/)
-[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/5379437/mohammad-faisal)
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/56faisal/)
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Mohamma88766694)<br>
-<br>## Expertise
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /><img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /><img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" /><img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /><img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" /><img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /><br>
-<br>
+![18 Years Old](https://img.shields.io/badge/-%20✨%2018%20years%20old%20-orange?style=for-the-badge)
+![Zielona Góra](https://img.shields.io/badge/-%20🏡%20Zielona%20G%C3%B3ra%20-success?style=for-the-badge)
+![Elektronik](https://img.shields.io/badge/-%20💻%20Elektronik%20-%23038cfc?style=for-the-badge)
+![Programmer](<https://img.shields.io/badge/-%20👨‍🎓%20Programming%20Student%20(3/5%20year)%20-blueviolet?style=for-the-badge>)
+
+## I programing in:
+  [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+  [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+  [![JS](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+  [![MYSQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+  [![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
+  [![PYTHON](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+  [![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+  [![PINIA](https://skillicons.dev/icons?i=pinia)](https://skillicons.dev)
+  [![QT](https://skillicons.dev/icons?i=qt)](https://skillicons.dev)
+  [![VUE](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)
+
+## Programs I use:
+  [![VSC](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+  [![FIGMA](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+  [![NOTION](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
+  [![GITHUB](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+
+## My Socials:
+  <a href="https://www.facebook.com/profile.php?id=100025136981422&locale=pl_PL">![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
+  <a href="https://www.instagram.com/k.wlodarczyk__/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+  <a href="https://open.spotify.com/user/oynnl3q8sm2fpwxsknrinhfko">![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)</a>
